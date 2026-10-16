@@ -1,3 +1,4 @@
+
 # 🌊 Flood Risk & Rescue Management System
 
 An AI-powered, real-time Flood Risk & Rescue Management System built with React 18, TypeScript, Leaflet.js, Spring Boot 3, Java 25, and Python FastAPI (PyTorch LSTM).
@@ -55,3 +56,5 @@ py api.py
 - **Spring Boot JPA & Security**: JWT stateless authentication, BCrypt password hashing, Regex password enforcement, and `CommandLineRunner` master account seeder.
 - **CWC Flood Data Web Scraper**: Jsoup parser running on `@Scheduled` intervals with thread-safe `CopyOnWriteArrayList` memory caching.
 - **PyTorch LSTM Time-Series Predictor & Multi-Lingual NLP**: Neural network flood prediction and Deep-Translator advisory report generation for Telugu, Hindi, Marathi, Tamil, and English.
+
+
